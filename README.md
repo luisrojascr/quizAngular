@@ -1,3 +1,5 @@
-#Author : Luis Rojas
+#Angular Quiz
 
-Based on a project made by course in Udemy
+Author: Luis Rojas
+
+Based on a project made by a course in Udemy, practicing Angular animations.
